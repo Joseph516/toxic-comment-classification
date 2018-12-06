@@ -72,7 +72,7 @@ Jigsaw(前身为Google ideas）在kaggle平台上举办了一场[文本分类比
 2. [TextCNN 解决方案](https://www.kaggle.com/yekenot/textcnn-2d-convolution)
 3. [LSTM + Attention 解决方案](https://www.kaggle.com/qqgeogor/keras-lstm-attention-glove840b-lb-0-043)
 4. [GRU 解决方案](https://www.kaggle.com/prashantkikani/pooled-gru-with-preprocessing)
-5. [GRU + CNN 解决方案](https://www.kaggle.com/konohayui/bi-gru-cnn-poolings)
+   5. [GRU + CNN 解决方案](https://www.kaggle.com/konohayui/bi-gru-cnn-poolings)
 
 
 

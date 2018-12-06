@@ -24,6 +24,18 @@
 baseline：a standard measurement or fact against which other measurements or facts are compared, especially in medicine or science. baseline可以理解成在比较中作为“参照物”的存在，强调比较，在比较中作为参照物，基线；
 benchmark：something that is used as a standard by which other things can be judged or measured. benchmark本身是一种标准、规则。
 
+### Keras on Deep Learning
+
+https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/
+
+### CNN自然语言处理介绍
+
+https://zhuanlan.zhihu.com/p/28087321
+
+
+
+
+
 
 ## 参考
 - 代码参考：https://github.com/Kirupakaran/Toxic-comments-classification
