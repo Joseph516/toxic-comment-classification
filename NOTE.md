@@ -42,3 +42,6 @@ https://zhuanlan.zhihu.com/p/28087321
 - word2vec：https://zhuanlan.zhihu.com/p/26306795
 - 词向量：http://wiki.jikexueyuan.com/project/deep-learning/word-vector.html
 - 算法评估&评估矩阵：https://blog.csdn.net/Heloiselt/article/details/80870794
+
+- keras 词向量的介绍：https://keras-cn-docs.readthedocs.io/zh_CN/latest/blog/word_embedding/
+
