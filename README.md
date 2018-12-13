@@ -8,8 +8,10 @@
 ### 报告及代码
 
 - capstone_report.pdf
-
 - toxic_comment_classification_vx.ipynb
+### 链接
+- udacity项目地址：https://github.com/udacity/cn-machine-learning
+- fasttext词向量地址：https://fasttext.cc/docs/en/english-vectors.html
 
 ### 参考
 
