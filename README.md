@@ -1,17 +1,35 @@
 # README
-### 开发工具
+### 版本
 
-- ubuntu 16.4、 jupyter notebook
-- python3， numpy, pandas, nltk, keras
-- AWS GPU
+#### Version 2
+
+- 新增LSTM_fasttext模型和LR模型，以及模型融合算法。
+
+- 修改训练集数据比例，切分方式改为0.95:0.05.
+
+- 融合模型提交至kaggle上得分为：0.9851
+
+  ![](pics\Selection_014.png)
+#### Version 1
+- 首次提交
 
 ### 报告及代码
 
 - capstone_report.pdf
-- toxic_comment_classification_vx.ipynb
+- toxic_comment_classification_CNN_GRU_Glove.ipynb
+- toxic_comment_classification_LSTM_fasttext.ipynb
+- toxic_comment_classification_tf-idf_nblr.ipynb
+- 模型融合：blend_model.py
+
+### 开发工具
+- ubuntu 16.4、 jupyter notebook
+- python3、numpy、pandas、 nltk、 keras
+- AWS GPU
+
 ### 链接
 - udacity项目地址：https://github.com/udacity/cn-machine-learning
 - fasttext词向量地址：https://fasttext.cc/docs/en/english-vectors.html
+- glove词向量地址：https://nlp.stanford.edu/projects/glove/
 
 ### 参考
 
