@@ -1,5 +1,23 @@
 # README
-### 版本
+## Quick Start
+
+### Version 3
+
+- **python toxic_comment_classification_CNN_GRU_Glove.py**：生成文本预处理文件.pkl，模型框架文件.json和模型文件.h5。个人i5电脑预计计算1.5h。
+
+- **python toxic_comment_classification_CNN_GRU_Glove_predict.py**： 生成交互程序如下：
+
+![1550124498716](assets/1550124498716.png)
+
+## 版本
+
+### Version 3
+
+- 新增用户交互，自定义文本功能。新增程序文件见：
+
+  toxic_comment_classification_CNN_GRU_Glove.py
+
+  toxic_comment_classification_CNN_GRU_Glove_predict.py
 
 #### Version 2
 
@@ -13,7 +31,7 @@
 #### Version 1
 - 首次提交
 
-### 报告及代码
+## 报告及代码
 
 - capstone_report.pdf
 - toxic_comment_classification_CNN_GRU_Glove.ipynb
@@ -21,17 +39,17 @@
 - toxic_comment_classification_tf-idf_nblr.ipynb
 - 模型融合：blend_model.py
 
-### 开发工具
+## 开发工具
 - ubuntu 16.4、 jupyter notebook
 - python3、numpy、pandas、 nltk、 keras
 - AWS GPU
 
-### 链接
+## 链接
 - udacity项目地址：https://github.com/udacity/cn-machine-learning
 - fasttext词向量地址：https://fasttext.cc/docs/en/english-vectors.html
 - glove词向量地址：https://nlp.stanford.edu/projects/glove/
 
-### 参考
+## 参考
 
 部分参考如下，一些相关资料见NOTE.md
 
