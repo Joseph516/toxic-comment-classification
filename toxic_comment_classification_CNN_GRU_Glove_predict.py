@@ -53,8 +53,8 @@ if __name__ == "__main__":
     #                'good boy',
     #                'School of AI is awesome',
     #                'FUCK']
-    quit_flat = "start"
-    while(quit_flat != "q"):
+    quit_flag = "start"
+    while(quit_flag != "q"):
         # get input text and turn into array
         sample_text = [input("Please input English words: ")]
         # sorts
@@ -67,4 +67,4 @@ if __name__ == "__main__":
             print(f"{text}")
             for index, value in zip(class_names, toxicity):
                 print(f"Toxicity of {index}:".ljust(27)+f"{value}")
-        quit_flat = input("Type q for quit, Enter for go on: ")
+        quit_flag = input("Type q for quit, Enter for go on: ")

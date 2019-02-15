@@ -5,9 +5,11 @@
 
 - **python toxic_comment_classification_CNN_GRU_Glove.py**：生成文本预处理文件.pkl，模型框架文件.json和模型文件.h5。个人i5电脑预计计算1.5h。
 
-- **python toxic_comment_classification_CNN_GRU_Glove_predict.py**： 生成交互程序如下：
+- **python app.py**: 生成tkinter交互程序，如下（显示老是对不齐，但是shell输出是正常的）：
 
-![1550124498716](assets/1550124498716.png)
+- **python toxic_comment_classification_CNN_GRU_Glove_predict.py**： 生成shell交互程序
+
+  ![1550195453030](assets/1550195453030.png)
 
 ## 版本
 
@@ -18,6 +20,8 @@
   toxic_comment_classification_CNN_GRU_Glove.py
 
   toxic_comment_classification_CNN_GRU_Glove_predict.py
+
+  app.py
 
 #### Version 2
 
